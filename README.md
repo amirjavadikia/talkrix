@@ -194,3 +194,6 @@ talkrix/
 ├── docker-compose.yml            # Docker Compose configuration
 ├── docker-compose.prod.yml       # Production Docker Compose configuration
 └── README.md                     # Project overview
+
+
+vless://cb3f1dd8-f6b6-4f9d-fbf7-f091a2cac5a8@89.106.206.55:55965?type=tcp&security=none#Amir%20Javadikia%202
